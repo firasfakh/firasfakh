@@ -80,7 +80,7 @@ Built a project tracking system to improve collaboration and project delivery.
 
 ## 📫 Contact Me
 
-📧 Email: [firas0151@gmail.com](mailto:firas0151@gmail.com)
+📧 Email: [firas0151@gmail.com](mailto:firas0151@gmail.com) or [fakhfekh.firas@iit.ens.tn](mailto:fakhfekh.firas@iit.ens.tn)
 💼 LinkedIn: firas-fakhfekh
 📍 Sfax, Tunisia
 
